@@ -23,7 +23,7 @@ section{
    display: grid;
    place-items: center;
    gap: 1.5vh;
-   width: 70vw;
+   width: 80vw;
    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
    position: relative;
 }
